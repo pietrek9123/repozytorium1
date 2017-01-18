@@ -26,7 +26,7 @@ int main(int argc, char *argv[])
                  wynik=pow(a,b);
     cout<<"Wynik dzialania: "<<wynik;
     
-    
+    cout<<"\nprojekt"<<endl;
     
     cout<<endl;
     
